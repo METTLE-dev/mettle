@@ -2,13 +2,13 @@
 
 ## File structure
 
-- **cluster**: clustering implementation
-- **mr**: MR implmentation
-- **util**: utils
-- **evaluate**: clustering assessment (check violation & compute score)
-- **main**: executive module
-- **resources/testdata**: source dataset to be executed
-- **lib**: auxiliary python script
+- [cluster](mettle/src/main/java/org/whu/mettle/cluster): clustering implementation
+- [mr](mettle/src/main/java/org/whu/mettle/mr): MR implmentation
+- [util](mettle/src/main/java/org/whu/mettle/util): utils
+- [evaluate](mettle/src/main/java/org/whu/mettle/evaluate): clustering assessment (check violation & compute score)
+- [main](mettle/src/main/java/org/whu/mettle/main): executive module
+- [testdata](mettle/src/main/resources/testdata): source dataset to be executed
+- [lib](mettle/lib): auxiliary python script
 
 ## To run
 

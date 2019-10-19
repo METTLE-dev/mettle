@@ -1,6 +1,6 @@
 # METTLE: a METmorphic Testing approach to assessing and validating unsupervised machine LEarning systems
 
-## File structure
+## File structure (main)
 
 - [cluster](mettle/src/main/java/org/whu/mettle/cluster): clustering implementation
 - [mr](mettle/src/main/java/org/whu/mettle/mr): MR implmentation
